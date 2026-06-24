@@ -1,4 +1,4 @@
-# Curso de Banco de Dados Avançado (BDA) & IoT 🎓🚀
+ Curso de Banco de Dados Avançado (BDA) 
 
 Repositório criado para consolidação dos aprendizados técnicos desenvolvidos durante as aulas de Banco de Dados e Sistemas Embarcados (IoT).
 
